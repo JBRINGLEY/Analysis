@@ -3,8 +3,7 @@ title: "Housing Price Regresison"
 author: "Joey Bringley"
 date: "October 6, 2017"
 output:
-  html_document: default
-  pdf_document: default
+  rmarkdown::github_document
 ---
 
 ```{r setup, include=FALSE}
